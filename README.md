@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul
 =============================================================================================================================
 
-IT graduate & Data Analyst
+IT graduate & Futuristic Data Analyst
 --------------------------
 
 🚀 IT graduate with a fervent passion for transforming raw data into meaningful insights. Proficient in Python, PowerBI, MySQL, PostgreSQL, Microsoft Excel, and adept at leveraging statistical techniques. Eager to contribute analytical prowess to drive informed decision-making. Check out my journey in code on GitHub! 📊💻 #DataAnalyst #PythonEnthusiast #AnalyticsWizard
@@ -24,6 +24,7 @@ IT graduate & Data Analyst
 ![image](https://github.com/RahulBattula/RahulBattula/assets/96605083/6139f38b-d979-4d4e-b5bc-85009cf74982)
 ![image](https://github.com/RahulBattula/RahulBattula/assets/96605083/885a9990-4eed-448b-8986-16bd87525da5)
 ![image](https://github.com/RahulBattula/RahulBattula/assets/96605083/01243e58-5356-4625-a2d3-91750437ddf8)
+![image](https://github.com/RahulBattula/RahulBattula/assets/96605083/59f348d8-e2f7-4586-b08d-8088ffdf9644)
 
 ### Web Development
 ![image](https://github.com/RahulBattula/RahulBattula/assets/96605083/25a4f6e0-3f2c-4325-aba9-7b5fb5f9e2b4)
@@ -43,6 +44,7 @@ IT graduate & Data Analyst
 
 ### Command Line and Operating systems
 ![image](https://github.com/RahulBattula/RahulBattula/assets/96605083/0cab761e-e8c3-4877-a0f9-5338b38ab010)
+![image](https://github.com/RahulBattula/RahulBattula/assets/96605083/fe3d25dc-8376-45ef-a1bc-b9ca30b4810d)
 ![image](https://github.com/RahulBattula/RahulBattula/assets/96605083/d70c248a-1caf-4ce9-8d33-4ca95a4ccc56)
 
 
