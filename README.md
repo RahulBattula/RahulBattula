@@ -32,15 +32,15 @@
 <p align="center">
   <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/85250ca0-ed7d-4c33-bead-9a5822497a75" width="100">
   <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/6139f38b-d979-4d4e-b5bc-85009cf74982" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/885a9990-4eed-448b-8986-16bd87525da5" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/01243e58-5356-4625-a2d3-91750437ddf8" width="100">
+  <img src="https://github.com/RahulBattula/GIFs/blob/main/wired-flat-153-bar-chart.gif" width="100">
+  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/4b336abb-c3ed-49e3-991e-427dd4fb951b" width="100">
   <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/59f348d8-e2f7-4586-b08d-8088ffdf9644" width="100">
 </p>
 
 <h3 align="center">Web Development</h3>
 <p align="center">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/a824d3d8-25a9-48aa-9647-40589e89159d" >
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/d0b7ff16-6211-4777-8c45-482ec9e6be6b" width="100">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
 </p>
   
 
@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/c05a38fe-fca3-4a3c-a78c-8700f0fac298" width="100">
   <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/731f7d30-ef71-43fd-b777-7340b5c2239c" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/676e9e2d-c812-4ca5-9adb-82447403737f" width="100">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </p>
 
 <h3 align="center">Tools</h3>
@@ -64,7 +64,7 @@
 <p align="center">
   <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/0cab761e-e8c3-4877-a0f9-5338b38ab010" width="100">
   <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/fe3d25dc-8376-45ef-a1bc-b9ca30b4810d" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/d70c248a-1caf-4ce9-8d33-4ca95a4ccc56" width="100">
+  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/3827ebc8-8aac-4a23-80ac-3b3bb5074dad" width="100">
 </p>
 
 ### Badges
