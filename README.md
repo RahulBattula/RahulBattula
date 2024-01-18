@@ -24,8 +24,8 @@
 
 <h3 align="center">Programming Languages</h2>
 <p align="center">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/262cdb57-5ef3-4b77-bd81-76d9da39a162" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/7237871c-1b46-415f-a023-abcb54cb3480" width="100">
+  <img src="https://github.com/RahulBattula/GIFs/blob/main/python.gif" width="100">
+  <img src="https://github.com/RahulBattula/GIFs/blob/main/Java.gif" width="100">
 </p>
 
 <h3 align="center">Data Science</h3>
@@ -39,8 +39,8 @@
 
 <h3 align="center">Web Development</h3>
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+  <img src="https://github.com/RahulBattula/GIFs/blob/main/Html5.gif" width="85">
+  <img src="https://github.com/RahulBattula/GIFs/blob/main/Css.gif" width="100">
 </p>
   
 
@@ -55,9 +55,9 @@
 <p align="center">
   <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/fb60e373-0518-4e56-9e0d-9b249358ae2d" width="100">
   <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/19bf87ff-433a-4030-9cbd-c28e49363820" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/0d358a5a-7d58-4906-b623-28e297775ca8" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/76ab9841-402b-4abb-a7fc-9f9ee1bce6dc" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/cc9bf01d-a3a0-421b-b3f8-0fb29dc8813f" width="100">
+  <img src="https://github.com/RahulBattula/GIFs/blob/main/microsoft_excel.gif" width="100">
+  <img src="https://github.com/RahulBattula/GIFs/blob/main/microsoft-powerpoint.gif" width="100">
+  <img src="https://github.com/RahulBattula/GIFs/blob/main/microsoft_word.gif" width="100">
 </p>
 
 <h3 align="center">Command Line and Operating systems</h3>
