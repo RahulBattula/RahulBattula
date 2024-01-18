@@ -1,8 +1,15 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul!;" />
+    <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="70" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=200&height=60&duration=4000&lines=Hi+There!;+I'm+Rahul!;" />
 </h1>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="5rem" alt="Centered Image" />
+</p>
+
+
 <h2 align="center">IT graduate & Futuristic Data Analyst</h2>
+
 
 <p align="center">🚀 IT graduate with a fervent passion for transforming raw data into meaningful insights. Proficient in Python, PowerBI, MySQL, PostgreSQL, Microsoft Excel, and adept at leveraging statistical techniques. Eager to contribute analytical prowess to drive informed decision-making. Check out my journey in code on GitHub! 📊💻 #DataAnalyst #PythonEnthusiast #AnalyticsWizard</p> 
 
@@ -13,7 +20,7 @@
 * 🤝  I'm open to collaborating on Dashboarding, Project Analysis
 * ⚡  I'm also interested in Web Development but not able to code at a best level
 
-# Skills
+# Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 
 <h3 align="center">Programming Languages</h2>
 <p align="center">
