@@ -56,7 +56,7 @@
   <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/fb60e373-0518-4e56-9e0d-9b249358ae2d" width="100">
   <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/19bf87ff-433a-4030-9cbd-c28e49363820" width="100">
   <img src="https://github.com/RahulBattula/GIFs/blob/main/microsoft_excel.gif" width="100">
-  <img src="https://github.com/RahulBattula/GIFs/blob/main/microsoft-powerpoint.gif" width="100">
+  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/c01bee5a-73c8-4400-a60e-38022cbc72fd" width="100">
   <img src="https://github.com/RahulBattula/GIFs/blob/main/microsoft_word.gif" width="100">
 </p>
 
