@@ -22,59 +22,122 @@
 
 # Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 
-<h3 align="center">Programming Languages</h2>
-<p align="center">
-  <img src="https://github.com/RahulBattula/GIFs/blob/main/python.gif" width="100">
-  <img src="https://github.com/RahulBattula/GIFs/blob/main/Java.gif" width="100">
-</p>
+###
 
-<h3 align="center">Data Science</h3>
-<p align="center">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/85250ca0-ed7d-4c33-bead-9a5822497a75" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/6139f38b-d979-4d4e-b5bc-85009cf74982" width="100">
-  <img src="https://github.com/RahulBattula/GIFs/blob/main/wired-flat-153-bar-chart.gif" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/4b336abb-c3ed-49e3-991e-427dd4fb951b" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/59f348d8-e2f7-4586-b08d-8088ffdf9644" width="100">
-</p>
+<div align="center">
+  <h3>Programming Languages</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="75" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="75" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="75" alt="java logo"  />
+</div>
 
-<h3 align="center">Web Development</h3>
-<p align="center">
-  <img src="https://github.com/RahulBattula/GIFs/blob/main/Html5.gif" width="85">
-  <img src="https://github.com/RahulBattula/GIFs/blob/main/Css.gif" width="100">
-</p>
-  
+###
 
-<h3 align="center">Databases</h3>
-<p align="center">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/c05a38fe-fca3-4a3c-a78c-8700f0fac298" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/731f7d30-ef71-43fd-b777-7340b5c2239c" width="100">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-</p>
+<div align="center">
+  <h3>Wev Develoment</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="75" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="75" alt="bootstrap logo"  />
+</div>
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/fb60e373-0518-4e56-9e0d-9b249358ae2d" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/19bf87ff-433a-4030-9cbd-c28e49363820" width="100">
-  <img src="https://github.com/RahulBattula/GIFs/blob/main/microsoft_excel.gif" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/c01bee5a-73c8-4400-a60e-38022cbc72fd" width="100">
-  <img src="https://github.com/RahulBattula/GIFs/blob/main/microsoft_word.gif" width="100">
-</p>
+###
 
-<h3 align="center">Command Line and Operating systems</h3>
-<p align="center">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/0cab761e-e8c3-4877-a0f9-5338b38ab010" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/fe3d25dc-8376-45ef-a1bc-b9ca30b4810d" width="100">
-  <img src="https://github.com/RahulBattula/RahulBattula/assets/96605083/3827ebc8-8aac-4a23-80ac-3b3bb5074dad" width="100">
-</p>
+<div align="center">
+  <h3>Data Science</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="75" alt="anaconda logo"  />
+  <img width="12" />
+  <img width="80" height="80" src="https://img.icons8.com/bubbles/50/combo-chart.png" alt="combo-chart"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="75" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="75" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="75" alt="jupyter logo"  />
+</div>
 
-### Badges
+###
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <h3>Databases</h3>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="75" alt="mysql logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="75" alt="postgresql logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="75" alt="mongodb logo"  />
+</div>
 
-<a href="http://www.github.com/RahulBattula"><img src="https://github-readme-stats.vercel.app/api?username=RahulBattula&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RahulBattula's GitHub stats" /></a>
+###
 
-<a href="http://www.github.com/RahulBattula"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulBattula&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <h3>Tools</h3>
+  <img width="75" height="75" src="https://img.icons8.com/color/144/power-bi.png" alt="power-bi"/>
+  <img width="13" />
+  <img width="75" height="75" src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+  <img width="13" />
+  <img width="75" height="75" src="https://img.icons8.com/color/96/tableau-software.png" alt="tableau-software"/>
+  <img width="13" />
+  <img width="75" height="75" src="https://img.icons8.com/color/96/microsoft-word-2019--v2.png" alt="microsoft-word-2019--v2"/>
+  <img width="13" />
+  <img width="75" height="75" src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v1.png" alt="microsoft-powerpoint-2019--v1"/>
+  <img width="13" />
+</div>
 
-<a href="http://www.github.com/RahulBattula"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RahulBattula&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+###
 
-<a href="https://github.com/RahulBattula" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBattula&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <h3>Command Line utilities</h3>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="75" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="75" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="75" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="75" alt="windows8 logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<div align="center">
+    <h3>My Activities</h3>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>    
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RahulBattula/count.svg?"  />
+</div>
+
+###
+
+<b align="center">My GitHub Stats</b>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulBattula&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulBattula&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+    <a href="http://www.github.com/RahulBattula"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulBattula&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
+
