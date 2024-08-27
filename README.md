@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="75" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="75" alt="java logo"  />
+  <img width="75" height="75" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
 </div>
 
 ###
@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="75" alt="bootstrap logo"  />
+  <img width="12" />
+  <img width="75" height="75" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
 </div>
 
 ###
